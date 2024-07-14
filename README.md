@@ -1,6 +1,4 @@
-<h1>Blockchain-based-File-Storage</h1>
-
-
+<h1>SecureShare</h1>
 
 <h2>How to run the application</h2>
 
@@ -107,10 +105,4 @@ Here, issues with On-chain blockchain can be solved by using off-chain blockchai
 2. https://github.com/MoTechStore/Python-Flask-Blockchain-Based-Content-Sharing<br/>
 3. https://medium.com/@amannagpal4/how-to-create-your-own-decentralized-file-sharing-service-using-python-2e00005bdc4a
 
-<h2> Authors </h2>
 
-1. Name: Bhautik Sojitra
-Student Id: 7900140
-
-2. Name: Kabir Bhakta
-Student Id: 7900098
